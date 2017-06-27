@@ -1,2 +1,1 @@
-Something Cool
-Something uncool
+is it cool
